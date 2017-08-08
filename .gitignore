@@ -7,3 +7,8 @@
 */Intermediate/
 */Saved
 BuildingEscape/Content/StarterContent/
+
+#########################
+#Visual Generated Files #
+#########################
+*.db
